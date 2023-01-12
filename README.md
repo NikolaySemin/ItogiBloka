@@ -28,7 +28,7 @@
 Ссылки на блок-схемы методов:
 * [PrintArray](PrintArray.drawio.png)
 * [GetShortWordsArray](method.drawio.png)
-* [Программа реализации алгоритма](Task\Program.cs)
+* [Программа реализации алгоритма](https://github.com/NikolaySemin/ItogiBloka/blob/main/Task/Program.cs)
 
 =======
 
