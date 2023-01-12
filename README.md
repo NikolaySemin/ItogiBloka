@@ -29,3 +29,4 @@
 * [PrintArray](PrintArray.drawio.png)
 * [GetShortWordsArray](method.drawio.png)
 * [Программа реализации алгоритма](Task\Program.cs)
+***
