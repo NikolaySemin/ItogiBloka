@@ -27,7 +27,6 @@
 ***
 Ссылки на блок-схемы методов:
 * [PrintArray](PrintArray.drawio.png)
-<<<<<<< HEAD
 * [GetShortWordsArray](method.drawio.png)
 * [Программа реализации алгоритма](Task\Program.cs)
 
